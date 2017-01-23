@@ -1,0 +1,120 @@
+body{
+font-family:lato,sans-serif;
+}
+
+h2{
+  color: #556677;
+}
+
+.breadcrumb{
+  background: black;
+  text-decoration: none;
+}
+
+.breadcrumb a:hover{
+  color: white;
+  text-decoration: none;
+}
+
+.mid .well{
+  background: #5b5b5b;
+}
+
+.mid{
+  color: white;
+}
+
+.p1{
+  font-weight: bold;
+}
+
+.p2{
+  color: #065772;
+}
+
+.p3{
+  font-size: 100%;
+  text-align: justify;
+}
+
+.hero{
+  background: #e3e8e3;
+}
+
+.herodata{
+  align-self: center;
+}
+
+#herohead{
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+
+#herocontent{
+  color: #065772;
+  text-align: center;
+}
+
+#herocontent .img{
+  align-self: auto;
+}
+
+.p4{
+  font-weight: bold;
+}
+
+.p5{
+  color: #888889;
+  text-align: justify;
+}
+
+.caro img{
+  align-self: center;
+  width: 35;
+  margin: auto;
+}
+
+.carousel-caption p{
+  color: black;
+}
+
+.caro{
+  background: #e3e8e3;
+}
+
+#footer1{
+  text-align: center;
+  font-size: 22px;
+  font-weight: bold;
+  background: #62d6c2;
+  padding: 20px;
+}
+
+#footer1 a:hover{
+  color: white;
+}
+
+#footer2{
+  text-decoration: none;
+  padding-top: 20px;
+  background: #616263;
+}
+
+#footer2 a{
+  color: yellow;
+}
+
+#footer2 a:hover{
+  color: white;
+}
+
+#footer2 .well{
+  background: #616263;
+  color: white;
+  text-align: justify;
+}
+
+.p8 strong{
+  font-size: 25px;
+}
